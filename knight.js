@@ -45,4 +45,4 @@ function Node(x, y, parent = null) {
     return Number.MAX_VALUE
   }
   
-  console.log(minMoves([3, 3], [4, 3]));
+console.log(minMoves([3, 3], [4, 3]));
